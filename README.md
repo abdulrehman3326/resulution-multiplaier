@@ -38,7 +38,7 @@
 
 <h2>How to Run</h2>
 
-<code>python your_script_name.py</code>
+<code>python Source_code.py</code>
 
 <h2>Example</h2>
 
