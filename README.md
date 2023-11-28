@@ -42,7 +42,7 @@
 
 <h2>Example</h2>
 
-<p>Image Resizer & Upscaler Example</p>
+<p>Image Resizer</p>
 
 <h2>Author</h2>
 
