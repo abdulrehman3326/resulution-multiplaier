@@ -1,5 +1,3 @@
-# resulution-multiplaier
-it will increase pixals of your photo 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,7 +7,6 @@ it will increase pixals of your photo
     <style>
         body {
             font-family: Arial, sans-serif;
-            line-height: 1.6;
             margin: 20px;
         }
         code {
@@ -24,8 +21,6 @@ it will increase pixals of your photo
 <body>
 
 <h1>Image Resizer & Upscaler</h1>
-
-<h2>Description</h2>
 
 <p>A simple Python application using Tkinter and OpenCV to resize and upscale images.</p>
 
@@ -61,7 +56,7 @@ it will increase pixals of your photo
 
 <h2>Example</h2>
 
-<img src="example_image.png" alt="Image Resizer & Upscaler Example" style="max-width: 100%;">
+<p>Image Resizer & Upscaler Example</p>
 
 <h2>Author</h2>
 
@@ -73,4 +68,3 @@ it will increase pixals of your photo
 
 </body>
 </html>
-
