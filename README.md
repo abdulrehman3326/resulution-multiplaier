@@ -3,20 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Resizer & Upscaler</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-        code {
-            background-color: #f4f4f4;
-            border: 1px solid #ddd;
-            padding: 5px;
-            display: block;
-            margin: 10px 0;
-        }
-    </style>
 </head>
 <body>
 
