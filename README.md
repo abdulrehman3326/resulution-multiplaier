@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1>Image Resizer & Upscaler</h1>
+<h1>Resulution Multiplaier</h1>
 
 <p>A simple Python application using Tkinter and OpenCV to resize and upscale images.</p>
 
